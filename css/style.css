@@ -15,7 +15,7 @@ nav{
     height: 100px;
     margin-left: 100px;
     background-color: #253476;
-    float: right;    
+    /* float: right;     */
     display: inline-block;
     top: 0;
     display: flex;
